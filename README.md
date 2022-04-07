@@ -48,6 +48,5 @@ I love plants and mushrooms and I'm an amateur producer. 😁
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Nando Github Stats](https://github-readme-stats.vercel.app/api?username=fnma88&count_private=true&show_icons=true&include_all_commits=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnma88&hide=TeX&layout=compact&theme=swift)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fnma88.fnma88)
