@@ -1,16 +1,16 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Seba](https://github.com/soriagorgoroso)! 😁
 
 
-<a href="https://www.instagram.com/%22%3E
+<a href="https://www.instagram.com/">
   <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="Zombie48#1820">
   <img align="left" alt="Sebastian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/SebaHCK%22%3E
+<a href="https://twitter.com/SebaHCK">
   <img align="left" alt="Sebastian Soria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/soriagorgoroso/%22%3E
+<a href="https://www.linkedin.com/in/soriagorgoroso/">
   <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -32,7 +32,10 @@ Besides programing, I play Inline-Hockey
         - user:  user@hackbeer.com 
         - pass: admin
 - 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
-Languages and Tools: <br>
+
+
+
+**Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-black?logo=AJAX&style=social)&nbsp;&nbsp;
