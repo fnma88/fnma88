@@ -1,32 +1,27 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Seba](https://github.com/soriagorgoroso)! 😁
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Fernando](https://github.com/fnma88)!
 
 
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="Zombie48#1820">
-  <img align="left" alt="Sebastian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/SebaHCK">
-  <img align="left" alt="Sebastian Soria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/soriagorgoroso/">
-  <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/f-n-marco/">
+  <img align="left" alt="\LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
 
 <br>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [HackAcademy] whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
-Besides programing, I play Inline-Hockey 
+Hi, I'm Fernando and I am starting my career in the world of web development. I recently finished an intensive coding bootcamp whit more than 600 hours of coding. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
+I love plants and mushrooms and I'm an amateur producer. 😁
 
 
-- 📝 [Resume](https://bit.ly/3LC8Wqw)
+
+- 📝 [Resume](https://www.canva.com/design/DAE6akE2HhU/cJpPjGW3q8oyhEesJtBjpA/view?utm_content=DAE6akE2HhU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 --Projects--
 
-- 📝 [Car Dealership](https://proyectofinalha2021.netlify.app/)
-- 📝 [Movie App](https://bit.ly/3LEXfj0)
+
+- 📝 [Movie App](https://)
 - 📝 [E-Commerce](https://bit.ly/3KcrXzv)
 - 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
         - user:  user@hackbeer.com 
@@ -52,7 +47,7 @@ Besides programing, I play Inline-Hockey
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Soria Github Stats](https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact&theme=swift)
+![Nando Github Stats](https://github-readme-stats.vercel.app/api?username=fnma88&count_private=true&show_icons=true&include_all_commits=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnma88&hide=TeX&layout=compact&theme=swift)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fnma88.fnma88)
