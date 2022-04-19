@@ -21,10 +21,10 @@ I love plants and mushrooms and I'm an amateur producer. 😁
 --Projects--
 
 
-- 📝 [Movie App](https://)
+
 - 📝 [E-Commerce](https://bit.ly/3KcrXzv)
 - 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
-        - user:  user@hackbeer.com 
+        - user:  user@hackbier.com 
         - pass: admin
 - 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
 
