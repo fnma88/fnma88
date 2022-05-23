@@ -13,7 +13,7 @@ I love plants and mushrooms and I'm an amateur producer. 😁
 
 
 
-- 📝 [Resume](https://www.canva.com/design/DAE6akE2HhU/cJpPjGW3q8oyhEesJtBjpA/view?utm_content=DAE6akE2HhU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📝 [Resume](https://www.canva.com/design/DAE-_h4xpR0/VrfCvl0uKt9N2nEPU0gJyA/view?utm_content=DAE-_h4xpR0&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 --Projects--
 
