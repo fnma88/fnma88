@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I am [Fernando](https://github.com/fnma88)!
+# Hello there I am [Fernando](https://github.com/fnma88)!
 
 
 <a href="https://www.linkedin.com/in/f-n-marco/">
